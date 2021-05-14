@@ -1,4 +1,4 @@
-# Projeto automação de testes Python & Java 
+# Projeto automação de testes Python
 
 
 #  Instalação 
